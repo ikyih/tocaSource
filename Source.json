@@ -1,0 +1,178 @@
+{
+  "name": "Toca Source",
+  "subtitle": "Feeling nostalgic? Play (most of) your Toca Boca Classics here!",
+  "description": "toca boca games if you are toca boca and you want to dmca go ahead\n\nmore games added gradually",
+  "iconURL": "https://i.imgur.com/49N6l5V.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#f15a22",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/swc0Mj9.png",
+  "apps": [
+    {
+      "name": "TocaVacation",
+      "bundleIdentifier": "com.tocaboca.tocavacation",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Make every day a vacation adventure!",
+      "localizedDescription": "Make every day a vacation adventure. Feel the excitement of going through the airport to catch your flight. Jumping on a hotel bed. Digging for treasure on the beach. Create all the vacation fun you want with Toca Life: Vacation. EXPLORE. With four locations to explore in Toca Life: Vacation, you'll never run out of ideas for your stories. Want to start your adventure at the airport? Have fun with the X-ray machine, board the plane and visit the cockpit. Then get a snack and enjoy your flight. At your destination, you have many choices for activities: shopping and sightseeing on the boardwalk, playing at the beach and surfing in the ocean and exploring the hotel. DISCOVER. You'll find lots of surprises throughout Toca Life: Vacation. Find out who inhabits the seafloor, open a secret compartment, uncover buried treasures and investigate a very mysterious-looking statue. RECORD YOUR STORY. Use the in-app recording feature to create an original video. This feature records your voice as you're telling the story, along with your characters' movements. Create vacation videos up two minutes long and save them to your camera roll to share later. GET THE INSIDE SCOOP. Don't miss Life Weekly. This is your source for hilarious videos, insider tips and awesome fan art. Located in the top right corner of the start screen, this free feature updates every week to give you fun insights into the whole world of Toca Life. Features. Explore four locations: airport, hotel, beach and sightseeing. Create stories for 34 new characters. X-ray luggage or people at the airport. Visit the cockpit and have a snack on the plane. Fill up at the hotel buffet or raid the fridge in your hotel room. Play on the hotel elevator then ride up to the top floor to enjoy the view from your penthouse suite. Shop for souvenirs in the gift shop, take photos in the cut-out figures and have a snack on the boardwalk. Play on the beach and surf above the ocean animals. Discover the island mysteries. Record your stories in the app and share with your friends. ",
+      "iconURL": "https://i.imgur.com/kOUHVfp.png",
+      "tintColor": "#04c9bc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Vacation_1.5.1.ipa",
+          "size": 172800000,
+          "version": "1.5.1",
+          "buildVersion": null,
+          "date": "2026-06-30T22:36:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSMicrophoneUsageDescription": "Used to record your own narration in your videos",
+          "NSPhotoLibraryUsageDescription": "Used to save your videos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TocaBoo",
+      "bundleIdentifier": "com.tocaboca.tocaboo",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "BOO!",
+      "localizedDescription": "BOO. Did I scare you? My name is Bonnie and my family loves to spook. Do you want to scare them back? Follow me and I'll show you how. SCARE. Float around the house and look for the family. Hide under tables, behind curtains or even duvets. Search the rooms but stay away from the light or else you'll be seen. Rattle things, turn on the kettle and make the characters nervous. Can you hear their heartbeat? Great, it's time to BOO. HUMOR. Turn on the disco music and dance, munch on peppers in the kitchen for an extra hot scare, enjoy being invisible and find all the different hiding places - even the toilet. UNIQUE AND MYSTERIOUS DESIGN. The simple and beautiful design will easily guide you through the world of Toca Boo. Fall in love with the 6 different characters and explore all the details of the big, mysterious house. FEATURES. Big house to explore with 2 floors and 6 rooms. 6 family members to scare. Hidden surprises around the house. Get bigger scares by eating things. Interact with objects in the house.",
+      "iconURL": "https://i.imgur.com/2jzOPAx.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Boo_2.2.1.ipa",
+          "size": 158600000,
+          "version": "2.2.1",
+          "buildVersion": null,
+          "date": "2026-06-30T22:35:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Town",
+      "bundleIdentifier": "com.tocaboca.tocatown",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "App Store Best of 2014",
+      "localizedDescription": "App Store Best of 2014. You rule this Town, a play world where anything and everyone is welcome. With different locations and many classic Toca Boca characters, the everyday adventures in Town are infinite. EXPLORE Move around in town. Visit the store to buy groceries, stop by the restaurant to cook lunch, and head home to watch movies with friends. Run over to the park for a picnic and go for a swim in the pond. Build a sand castle or go on an adventure in the dark? In this Town you decide. CREATEPlay cops and robbers today and hide and seek tomorrow, the story is up to you. Use your imagination to create your own world and play together with friends and family. DISCOVER There are treasures hidden everywhere. Turn on and off lights, toss garbage in the bins, or wrap up a present in the store to give to friends. Throw stones in the pond and tap the sun for day and night. Remember there are no rules so don't be afraid to interact with anything, even the toilet. TOCA LIFEToca Life is a series of apps that takes you beyond the map of Toca Life: Town and let you discover new places within the Toca Life universe. FEATURES- 24 characters to play with. Do you recognize any of them? - 6 locations to explore - park with a pond, store, police station, restaurant, house & apartment- 30 different dishes to cook in the restaurant- Go on adventure - light a campfire and sleep in a tent- Control day and night- 5 different animals to play with- Open game play with no rules or stress- Kid-friendly interface- No third-party advertising- No in-app purchases Toca Life: Town is made for kids as young as 3 yet can capture the imagination of those much older. It's filled with surprises and exciting things to do - there are no limits, just fun. Come play. ",
+      "iconURL": "https://i.imgur.com/V6RDEuy.png",
+      "tintColor": "#0cacfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Town_1.8.1.ipa",
+          "size": 163100000,
+          "version": "1.8.1",
+          "buildVersion": null,
+          "date": "2026-06-30T22:31:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSMicrophoneUsageDescription": "Used to record your own narration in your videos",
+          "NSPhotoLibraryUsageDescription": "Used to save your videos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Blocks",
+      "bundleIdentifier": "com.tocaboca.blocks",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Combine and discover",
+      "localizedDescription": "Toca Blocks is a unique world-building app that lets you create worlds, play in them and share them with friends. Where will your imagination take you? BUILD. Construct worlds and fill them with your own adventurous paths. Craft detailed obstacle courses, intricate race tracks or floating islands. Meet the characters and discover their unique abilities as you take them though your world. MAKE. Explore the blocks' attributes by merging blocks together to transform them into something else. Learn their characteristics -- some are bouncy, some are sticky, some turn into beds, diamonds, turds or other surprises. Combine blocks to change their color and pattern and give your design that magical feel. The more you learn about the blocks, the more inspiration for your creations you will find. Snap, share and import. Save and share all the great work you've put into your worlds. Use the camera function to snap a photo. Share unique Blocks codes with family and friends so they can import your world and explore it themselves. Or import your friends' worlds and make them part of your own. FEATURES - Combine blocks to create new materials and patterns. Build with 60+ quirky items- Create as many worlds as you want -- there's no limit. Snap photos of your work and share their unique Blocks codes so friends and family can import your world. Get codes from others and import their worlds into your own. Meet the heroes and discover their superpowers. Remove blocks with the eraser head. Use the pencil tool to help you create many blocks in one go. Get exclusive content on the in-app Club Blocks channel: watch videos, download photos and import new worlds. Open gameplay with no rules or stress- Kid-friendly interface- No third-party advertising- No in-app purchases. At Toca Boca, we believe in the power of play to spark kids' imaginations and help them learn about the world. We design our products from the kids' perspective to empower kids to be playful, to be creative and to be who they want to be. Our products include award-winning apps that have been downloaded more than 150 million times in 215 countries and offer fun, safe, open-ended play experiences. Learn more about Toca Boca and our products at tocaboca.com.",
+      "iconURL": "https://i.imgur.com/6YLAUzN.png",
+      "tintColor": "#fcc404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Blocks_2.3.ipa",
+          "size": 37600000,
+          "version": "2.3",
+          "buildVersion": null,
+          "date": "2026-05-09T00:58:00-04:00",
+          "localizedDescription": "",
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Band",
+      "bundleIdentifier": "com.tocaboca.tocaband",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Play with sounds",
+      "localizedDescription": "Rock out with Toca Band!\nToca Band is getting ready for their big concert and needs your help to mix beats and sounds together for their hit song! Toca Band is a fun and easy toy that encourages children to explore music in a new creative way! Choose from 16 different cool characters – each with their own unique quirky sound and musical rhythms. Put your band members on stage to get the music started – then move them around and see what happens! Try out new band combinations, explore different sounds – and while you’re at it, why not give the lovable rapper, Stikk Figga something he always dreamed of: a solo performance!\n\nWith Toca Band you can play together with your kids and experiment with sounds, beats and rhythms in lots of fun ways. Guitar or opera, upbeat or downtempo, let’s find out what sounds best together!",
+      "iconURL": "https://i.imgur.com/iRC27mH.png",
+      "tintColor": "#fc9c04",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/vK13HBD.png",
+          "width": 405,
+          "height": 228
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Band_1.0.8.ipa",
+          "size": 50600000,
+          "version": "1.0.8",
+          "buildVersion": null,
+          "date": "2012-09-12T04:00:00-04:00",
+          "localizedDescription": "",
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to save screenshots"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
