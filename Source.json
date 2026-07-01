@@ -22,12 +22,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Vacation_1.5.1.ipa",
-          "size": 172800000,
           "version": "1.5.1",
-          "buildVersion": null,
           "date": "2026-06-30T22:36:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Vacation_1.5.1.ipa",
+          "size": 172800000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -54,12 +54,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Boo_2.2.1.ipa",
-          "size": 158600000,
           "version": "2.2.1",
-          "buildVersion": null,
           "date": "2026-06-30T22:35:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Boo_2.2.1.ipa",
+          "size": 158600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -86,12 +86,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Town_1.8.1.ipa",
-          "size": 163100000,
           "version": "1.8.1",
-          "buildVersion": null,
           "date": "2026-06-30T22:31:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Town_1.8.1.ipa",
+          "size": 163100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -118,12 +118,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Blocks_2.3.ipa",
-          "size": 37600000,
           "version": "2.3",
-          "buildVersion": null,
           "date": "2026-05-09T00:58:00-04:00",
           "localizedDescription": "",
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Blocks_2.3.ipa",
+          "size": 37600000,
+          "buildVersion": null,
           "minOSVersion": "11.0"
         }
       ],
@@ -156,12 +156,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Band_1.0.8.ipa",
-          "size": 50600000,
           "version": "1.0.8",
-          "buildVersion": null,
           "date": "2012-09-12T04:00:00-04:00",
           "localizedDescription": "",
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Band_1.0.8.ipa",
+          "size": 50600000,
+          "buildVersion": null,
           "minOSVersion": "11.0"
         }
       ],
@@ -174,5 +174,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Toca Source is New!",
+      "identifier": "news_2r6nxmse5f",
+      "caption": "The best way to play Toca Boca!",
+      "date": "2026-07-01T08:31",
+      "tintColor": "#71bd43",
+      "imageURL": "https://i.imgur.com/swc0Mj9.png",
+      "notify": true,
+      "url": "",
+      "appID": "com.tocaboca.tocavacation"
+    }
+  ]
 }
