@@ -10,6 +10,314 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca Pet Doctor",
+      "bundleIdentifier": "com.tocaboca.tocapetdoctor",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Those poor pets!",
+      "localizedDescription": "The pets need your help! Meet 15 animals who are all craving your attention. Through innovative play you can help the dove, or clean up the pup! Oh no, did the angry worm accidentally twist itself into a knot? Our animal friends want your love and care!",
+      "iconURL": "https://i.imgur.com/NrREVB9.png",
+      "tintColor": "#2ccc04",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Pet%20Doctor_2.2.ipa",
+          "size": 68200000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-07-02T12:34:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Mystery House",
+      "bundleIdentifier": "com.tocaboca.tocamysteryhouse",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "It's Halloween!",
+      "localizedDescription": "It’s that vacant-looking house on that eerie, silent street that no one seems to visit anymore. You know the type, right? Missing streetlights, cracked sidewalks, scraggly weeds. And slouching in the dark there, almost daring you to enter, is this mysterious little house. If you’re curious enough, I bet you could go inside and find out wh-….well, who knows what you’ll find out?",
+      "iconURL": "https://i.imgur.com/AyqzR0f.png",
+      "tintColor": "#5c42cc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Mystery_2.2.1.ipa",
+          "size": 62600000,
+          "version": "2.2.1",
+          "buildVersion": null,
+          "date": "2026-07-02T12:32:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save photos to the photo library"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Hair Salon 3",
+      "bundleIdentifier": "com.tocaboca.tocahairsalon3",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Cut to the limit!",
+      "localizedDescription": "What do you feel like creating today — something quirky, pretty or edgy? Cut, curl, color and style – any way you want! Choose your character from dozens of looks that you can customize — the play opportunities are are endless.",
+      "iconURL": "https://i.imgur.com/shThqzD.png",
+      "tintColor": "#d4f440",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%203_2.3.1.ipa",
+          "size": 39900000,
+          "version": "2.3.1",
+          "buildVersion": null,
+          "date": "2026-07-02T12:29:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Builders",
+      "bundleIdentifier": "com.tocaboca.tocabuilders",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Build with imagination!",
+      "localizedDescription": "If you can imagine it you can build it with the six Toca builders! Join your new builder friends on an island far away and create a whole new world with blocks. Jump, walk, roll and rotate the builders to use their unique skills, and they will help to build whatever you can imagine!",
+      "iconURL": "https://i.imgur.com/kcCIQbU.png",
+      "tintColor": "#1cb4e4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Builders_2.3.1.ipa",
+          "size": 95200000,
+          "version": "2.3.1",
+          "buildVersion": null,
+          "date": "2026-07-02T12:27:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Fairy Tales",
+      "bundleIdentifier": "com.tocaboca.tailorfairytales",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Toca Fairies!!",
+      "localizedDescription": "Time to get busy with those design skills! With Toca Tailor Fairy Tales, you can create, combine and style fun outfits for two characters in a beautiful Fairy Tale setting! Choose between lots of clothing designs, then tailor them by adjusting hems and lengthening sleeves.",
+      "iconURL": "https://i.imgur.com/vKCiQua.png",
+      "tintColor": "#e49c2c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Fairy%20Tales_1.0.5.ipa",
+          "size": 42500000,
+          "version": "1.0.5",
+          "buildVersion": null,
+          "date": "2026-07-02T12:23:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Kitchen Sushi",
+      "bundleIdentifier": "com.tocaboca.tocakitchensushi",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Why be nasty when you can be SUSHI?",
+      "localizedDescription": "With Toca Kitchen Sushi, you’re the chef of a busy seaside restaurant. Customers come in, and you decide what they’re going to eat. Feel like slicing up squid, asparagus, and candy canes, and rolling it all up into a cone of seaweed? Go right ahead. Want to make stars and hearts of watermelon and mix them with fish and hot peppers? Make the roundest rice ball? You’ve got great tools for that right at your fingertips. With a fantastic array of ingredients, condiments, tools, serving dishes and some hidden surprises, you’re set for some serious play.",
+      "iconURL": "https://i.imgur.com/sG5q3r5.png",
+      "tintColor": "#fbed4c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Kitchen%20Sushi_2.5.ipa",
+          "size": 59600000,
+          "version": "2.5",
+          "buildVersion": null,
+          "date": "2026-07-02T16:21:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Kitchen 2",
+      "bundleIdentifier": "com.tocaboca.tocakitchen2",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Play with more food!",
+      "localizedDescription": "Who said dishes have to be pretty and tasty? In Toca Kitchen 2 you can cook however you want! Juice tomatoes, boil the salad or make a weird shake. Come up with your very own recipes and treat your guests to something special!",
+      "iconURL": "https://i.imgur.com/7pBOKO6.png",
+      "tintColor": "#f0c84e",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen%202_2.1.ipa",
+          "size": 64000000,
+          "version": "2.1",
+          "buildVersion": null,
+          "date": "2026-07-02T12:07:00-04:00",
+          "localizedDescription": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Kitchen Monsters",
+      "bundleIdentifier": "com.tocaboca.tocakitchenmonsters",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Ew! Monsters!??",
+      "localizedDescription": "Someone must have left and two monsters have snuck into the kitchen!! And what a mess they’ve made… Oh well, at least they seem friendly enough. They look hungry too! Try feeding them and see what they like!",
+      "iconURL": "https://i.imgur.com/0XAJwxL.png",
+      "tintColor": "#fca524",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Monster_1.0.6.ipa",
+          "size": 56100000,
+          "version": "1.0.6",
+          "buildVersion": null,
+          "date": "2026-07-02T12:05:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Robot Lab",
+      "bundleIdentifier": "com.tocaboca.tocarobotlab",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Build Robots!",
+      "localizedDescription": "Do you want to make a cool robot? Toca Robot Lab lets you build your very own robot from pieces of scrap – and then let it fly! Try out endless robot combinations for a different robot every time.",
+      "iconURL": "https://i.imgur.com/9HP1VIg.png",
+      "tintColor": "#fcd404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Robot%20Lab_1.2.4.ipa",
+          "size": 56900000,
+          "version": "1.2.4",
+          "buildVersion": null,
+          "date": "2026-07-02T12:02:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Kitchen",
+      "bundleIdentifier": "com.tocaboca.tocakitchen",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Play with food!",
+      "localizedDescription": "Parents Choice Awards 2012 - Gold Winner. Ever wanted to play with your food? Now you can. Toca Kitchen lets you cook and play with food for four hungry characters. Pick any ingredient and prepare it in your own way. Slice, boil, fry, cook, microwave or mix? And wait for your hungry friend. s response. FEATURES. Four cute characters to cook for - each with their own favorite food. 12 different ingredients that can be prepared in 180 different ways. Slice, boil, fry, cook, microwave or mix any of the ingredients. Optional vegetarian mode. Fantastic original artwork. No rules or stress - play any way your kids want to. Kid-friendly interface. No third-party advertising. No in-app purchases. Toca Kitchen is not a game - it's a toy where you and your kids get to explore cooking. What happens if you mix a carrot and then fry it? Will the cat like it? And what is the bull's favorite food? Toca Kitchen supports free play for all ages and is a great way to use your imagination.",
+      "iconURL": "https://i.imgur.com/oyNSIZr.png",
+      "tintColor": "#30a4e8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen_2.2.1.ipa",
+          "size": 62100000,
+          "version": "2.2.1",
+          "buildVersion": null,
+          "date": "2026-07-02T12:00:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca Vacation",
       "bundleIdentifier": "com.tocaboca.tocavacation",
       "marketplaceID": "",
@@ -42,7 +350,7 @@
       "patreon": {}
     },
     {
-      "name": "TocaBoo",
+      "name": "Toca Boo",
       "bundleIdentifier": "com.tocaboca.tocaboo",
       "marketplaceID": "",
       "developerName": "Toca Boca",
