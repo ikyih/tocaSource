@@ -10,6 +10,98 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca Doctor Lite",
+      "bundleIdentifier": "com.tocaboca.tocadoctorlite",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "The kids need your help!",
+      "localizedDescription": "Be a doctor for a day! Examine and help your patient by solving 21 fun puzzles and mini-games that take place in the human body. Don’t miss the beautiful artwork and fun sounds!",
+      "iconURL": "https://i.imgur.com/ZIKPnNA.png",
+      "tintColor": "#449586",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Doctor%20Lite_1.0.3.ipa",
+          "size": 10000000,
+          "version": "1.0.3",
+          "buildVersion": null,
+          "date": "2026-07-03T10:21:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Pets",
+      "bundleIdentifier": "com.tocaboca.tocapets",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "doggie get mad at you *bark* *bark*",
+      "localizedDescription": "Welcome to Toca Life: Pets, where you and your animal friends run the show! What’s your favorite pet like? Furry and fast? Wet and wiggly? A little bit creepy? With more than 120 animals, Toca Life: Pets has every kind of pet you can imagine. Meet 23 new characters, explore five locations and get free iMessage stickers featuring your new pet friends!",
+      "iconURL": "https://i.imgur.com/Ma7D7Z6.png",
+      "tintColor": "#FADF8C",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Pets_1.4.1.ipa",
+          "size": 166500000,
+          "version": "1.4.1",
+          "buildVersion": null,
+          "date": "2026-07-03T10:13:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSMicrophoneUsageDescription": "Used to record your own narration in your videos",
+          "NSPhotoLibraryUsageDescription": "Used to save your videos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca School",
+      "bundleIdentifier": "com.tocaboca.tocaschool",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Ever wanted to get bullied?? YOU CAN NOW.",
+      "localizedDescription": "Grab your backpack— it’s time for Toca Life: School! Teach a class, pick a locker and have a food fight in the cafeteria! With five locations and 32 characters, you can create your very own school adventures!",
+      "iconURL": "https://i.imgur.com/3vHqyWZ.png",
+      "tintColor": "75CCA7",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20School_1.7.1.ipa",
+          "size": 155700000,
+          "version": "1.7.1",
+          "buildVersion": null,
+          "date": "2026-07-03T09:52:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSMicrophoneUsageDescription": "Used to record your own narration in your videos",
+          "NSPhotoLibraryUsageDescription": "Used to save your videos"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca Pet Doctor",
       "bundleIdentifier": "com.tocaboca.tocapetdoctor",
       "marketplaceID": "",
@@ -18,16 +110,16 @@
       "localizedDescription": "The pets need your help! Meet 15 animals who are all craving your attention. Through innovative play you can help the dove, or clean up the pup! Oh no, did the angry worm accidentally twist itself into a knot? Our animal friends want your love and care!",
       "iconURL": "https://i.imgur.com/NrREVB9.png",
       "tintColor": "#2ccc04",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Pet%20Doctor_2.2.ipa",
-          "size": 68200000,
           "version": "2.2",
-          "buildVersion": null,
           "date": "2026-07-02T12:34:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Pet%20Doctor_2.2.ipa",
+          "size": 68200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -50,16 +142,16 @@
       "localizedDescription": "It’s that vacant-looking house on that eerie, silent street that no one seems to visit anymore. You know the type, right? Missing streetlights, cracked sidewalks, scraggly weeds. And slouching in the dark there, almost daring you to enter, is this mysterious little house. If you’re curious enough, I bet you could go inside and find out wh-….well, who knows what you’ll find out?",
       "iconURL": "https://i.imgur.com/AyqzR0f.png",
       "tintColor": "#5c42cc",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Mystery_2.2.1.ipa",
-          "size": 62600000,
           "version": "2.2.1",
-          "buildVersion": null,
           "date": "2026-07-02T12:32:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Mystery_2.2.1.ipa",
+          "size": 62600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -82,16 +174,16 @@
       "localizedDescription": "What do you feel like creating today — something quirky, pretty or edgy? Cut, curl, color and style – any way you want! Choose your character from dozens of looks that you can customize — the play opportunities are are endless.",
       "iconURL": "https://i.imgur.com/shThqzD.png",
       "tintColor": "#d4f440",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%203_2.3.1.ipa",
-          "size": 39900000,
           "version": "2.3.1",
-          "buildVersion": null,
           "date": "2026-07-02T12:29:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%203_2.3.1.ipa",
+          "size": 39900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -114,16 +206,16 @@
       "localizedDescription": "If you can imagine it you can build it with the six Toca builders! Join your new builder friends on an island far away and create a whole new world with blocks. Jump, walk, roll and rotate the builders to use their unique skills, and they will help to build whatever you can imagine!",
       "iconURL": "https://i.imgur.com/kcCIQbU.png",
       "tintColor": "#1cb4e4",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Builders_2.3.1.ipa",
-          "size": 95200000,
           "version": "2.3.1",
-          "buildVersion": null,
           "date": "2026-07-02T12:27:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Builders_2.3.1.ipa",
+          "size": 95200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -146,16 +238,16 @@
       "localizedDescription": "Time to get busy with those design skills! With Toca Tailor Fairy Tales, you can create, combine and style fun outfits for two characters in a beautiful Fairy Tale setting! Choose between lots of clothing designs, then tailor them by adjusting hems and lengthening sleeves.",
       "iconURL": "https://i.imgur.com/vKCiQua.png",
       "tintColor": "#e49c2c",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Fairy%20Tales_1.0.5.ipa",
-          "size": 42500000,
           "version": "1.0.5",
-          "buildVersion": null,
           "date": "2026-07-02T12:23:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Fairy%20Tales_1.0.5.ipa",
+          "size": 42500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -174,16 +266,16 @@
       "localizedDescription": "With Toca Kitchen Sushi, you’re the chef of a busy seaside restaurant. Customers come in, and you decide what they’re going to eat. Feel like slicing up squid, asparagus, and candy canes, and rolling it all up into a cone of seaweed? Go right ahead. Want to make stars and hearts of watermelon and mix them with fish and hot peppers? Make the roundest rice ball? You’ve got great tools for that right at your fingertips. With a fantastic array of ingredients, condiments, tools, serving dishes and some hidden surprises, you’re set for some serious play.",
       "iconURL": "https://i.imgur.com/sG5q3r5.png",
       "tintColor": "#fbed4c",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Kitchen%20Sushi_2.5.ipa",
-          "size": 59600000,
           "version": "2.5",
-          "buildVersion": null,
           "date": "2026-07-02T16:21:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Kitchen%20Sushi_2.5.ipa",
+          "size": 59600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -210,12 +302,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen%202_2.1.ipa",
-          "size": 64000000,
           "version": "2.1",
-          "buildVersion": null,
           "date": "2026-07-02T12:07:00-04:00",
           "localizedDescription": "",
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen%202_2.1.ipa",
+          "size": 64000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -238,16 +330,16 @@
       "localizedDescription": "Someone must have left and two monsters have snuck into the kitchen!! And what a mess they’ve made… Oh well, at least they seem friendly enough. They look hungry too! Try feeding them and see what they like!",
       "iconURL": "https://i.imgur.com/0XAJwxL.png",
       "tintColor": "#fca524",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Monster_1.0.6.ipa",
-          "size": 56100000,
           "version": "1.0.6",
-          "buildVersion": null,
           "date": "2026-07-02T12:05:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Monster_1.0.6.ipa",
+          "size": 56100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -266,16 +358,16 @@
       "localizedDescription": "Do you want to make a cool robot? Toca Robot Lab lets you build your very own robot from pieces of scrap – and then let it fly! Try out endless robot combinations for a different robot every time.",
       "iconURL": "https://i.imgur.com/9HP1VIg.png",
       "tintColor": "#fcd404",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Robot%20Lab_1.2.4.ipa",
-          "size": 56900000,
           "version": "1.2.4",
-          "buildVersion": null,
           "date": "2026-07-02T12:02:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Robot%20Lab_1.2.4.ipa",
+          "size": 56900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -294,16 +386,16 @@
       "localizedDescription": "Parents Choice Awards 2012 - Gold Winner. Ever wanted to play with your food? Now you can. Toca Kitchen lets you cook and play with food for four hungry characters. Pick any ingredient and prepare it in your own way. Slice, boil, fry, cook, microwave or mix? And wait for your hungry friend. s response. FEATURES. Four cute characters to cook for - each with their own favorite food. 12 different ingredients that can be prepared in 180 different ways. Slice, boil, fry, cook, microwave or mix any of the ingredients. Optional vegetarian mode. Fantastic original artwork. No rules or stress - play any way your kids want to. Kid-friendly interface. No third-party advertising. No in-app purchases. Toca Kitchen is not a game - it's a toy where you and your kids get to explore cooking. What happens if you mix a carrot and then fry it? Will the cat like it? And what is the bull's favorite food? Toca Kitchen supports free play for all ages and is a great way to use your imagination.",
       "iconURL": "https://i.imgur.com/oyNSIZr.png",
       "tintColor": "#30a4e8",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen_2.2.1.ipa",
-          "size": 62100000,
           "version": "2.2.1",
-          "buildVersion": null,
           "date": "2026-07-02T12:00:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Kitchen_2.2.1.ipa",
+          "size": 62100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -326,7 +418,7 @@
       "localizedDescription": "Make every day a vacation adventure. Feel the excitement of going through the airport to catch your flight. Jumping on a hotel bed. Digging for treasure on the beach. Create all the vacation fun you want with Toca Life: Vacation. EXPLORE. With four locations to explore in Toca Life: Vacation, you'll never run out of ideas for your stories. Want to start your adventure at the airport? Have fun with the X-ray machine, board the plane and visit the cockpit. Then get a snack and enjoy your flight. At your destination, you have many choices for activities: shopping and sightseeing on the boardwalk, playing at the beach and surfing in the ocean and exploring the hotel. DISCOVER. You'll find lots of surprises throughout Toca Life: Vacation. Find out who inhabits the seafloor, open a secret compartment, uncover buried treasures and investigate a very mysterious-looking statue. RECORD YOUR STORY. Use the in-app recording feature to create an original video. This feature records your voice as you're telling the story, along with your characters' movements. Create vacation videos up two minutes long and save them to your camera roll to share later. GET THE INSIDE SCOOP. Don't miss Life Weekly. This is your source for hilarious videos, insider tips and awesome fan art. Located in the top right corner of the start screen, this free feature updates every week to give you fun insights into the whole world of Toca Life. Features. Explore four locations: airport, hotel, beach and sightseeing. Create stories for 34 new characters. X-ray luggage or people at the airport. Visit the cockpit and have a snack on the plane. Fill up at the hotel buffet or raid the fridge in your hotel room. Play on the hotel elevator then ride up to the top floor to enjoy the view from your penthouse suite. Shop for souvenirs in the gift shop, take photos in the cut-out figures and have a snack on the boardwalk. Play on the beach and surf above the ocean animals. Discover the island mysteries. Record your stories in the app and share with your friends. ",
       "iconURL": "https://i.imgur.com/kOUHVfp.png",
       "tintColor": "#04c9bc",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
@@ -358,7 +450,7 @@
       "localizedDescription": "BOO. Did I scare you? My name is Bonnie and my family loves to spook. Do you want to scare them back? Follow me and I'll show you how. SCARE. Float around the house and look for the family. Hide under tables, behind curtains or even duvets. Search the rooms but stay away from the light or else you'll be seen. Rattle things, turn on the kettle and make the characters nervous. Can you hear their heartbeat? Great, it's time to BOO. HUMOR. Turn on the disco music and dance, munch on peppers in the kitchen for an extra hot scare, enjoy being invisible and find all the different hiding places - even the toilet. UNIQUE AND MYSTERIOUS DESIGN. The simple and beautiful design will easily guide you through the world of Toca Boo. Fall in love with the 6 different characters and explore all the details of the big, mysterious house. FEATURES. Big house to explore with 2 floors and 6 rooms. 6 family members to scare. Hidden surprises around the house. Get bigger scares by eating things. Interact with objects in the house.",
       "iconURL": "https://i.imgur.com/2jzOPAx.png",
       "tintColor": "#7f7f7f",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
@@ -390,7 +482,7 @@
       "localizedDescription": "App Store Best of 2014. You rule this Town, a play world where anything and everyone is welcome. With different locations and many classic Toca Boca characters, the everyday adventures in Town are infinite. EXPLORE Move around in town. Visit the store to buy groceries, stop by the restaurant to cook lunch, and head home to watch movies with friends. Run over to the park for a picnic and go for a swim in the pond. Build a sand castle or go on an adventure in the dark? In this Town you decide. CREATEPlay cops and robbers today and hide and seek tomorrow, the story is up to you. Use your imagination to create your own world and play together with friends and family. DISCOVER There are treasures hidden everywhere. Turn on and off lights, toss garbage in the bins, or wrap up a present in the store to give to friends. Throw stones in the pond and tap the sun for day and night. Remember there are no rules so don't be afraid to interact with anything, even the toilet. TOCA LIFEToca Life is a series of apps that takes you beyond the map of Toca Life: Town and let you discover new places within the Toca Life universe. FEATURES- 24 characters to play with. Do you recognize any of them? - 6 locations to explore - park with a pond, store, police station, restaurant, house & apartment- 30 different dishes to cook in the restaurant- Go on adventure - light a campfire and sleep in a tent- Control day and night- 5 different animals to play with- Open game play with no rules or stress- Kid-friendly interface- No third-party advertising- No in-app purchases Toca Life: Town is made for kids as young as 3 yet can capture the imagination of those much older. It's filled with surprises and exciting things to do - there are no limits, just fun. Come play. ",
       "iconURL": "https://i.imgur.com/V6RDEuy.png",
       "tintColor": "#0cacfc",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
@@ -422,7 +514,7 @@
       "localizedDescription": "Toca Blocks is a unique world-building app that lets you create worlds, play in them and share them with friends. Where will your imagination take you? BUILD. Construct worlds and fill them with your own adventurous paths. Craft detailed obstacle courses, intricate race tracks or floating islands. Meet the characters and discover their unique abilities as you take them though your world. MAKE. Explore the blocks' attributes by merging blocks together to transform them into something else. Learn their characteristics -- some are bouncy, some are sticky, some turn into beds, diamonds, turds or other surprises. Combine blocks to change their color and pattern and give your design that magical feel. The more you learn about the blocks, the more inspiration for your creations you will find. Snap, share and import. Save and share all the great work you've put into your worlds. Use the camera function to snap a photo. Share unique Blocks codes with family and friends so they can import your world and explore it themselves. Or import your friends' worlds and make them part of your own. FEATURES - Combine blocks to create new materials and patterns. Build with 60+ quirky items- Create as many worlds as you want -- there's no limit. Snap photos of your work and share their unique Blocks codes so friends and family can import your world. Get codes from others and import their worlds into your own. Meet the heroes and discover their superpowers. Remove blocks with the eraser head. Use the pencil tool to help you create many blocks in one go. Get exclusive content on the in-app Club Blocks channel: watch videos, download photos and import new worlds. Open gameplay with no rules or stress- Kid-friendly interface- No third-party advertising- No in-app purchases. At Toca Boca, we believe in the power of play to spark kids' imaginations and help them learn about the world. We design our products from the kids' perspective to empower kids to be playful, to be creative and to be who they want to be. Our products include award-winning apps that have been downloaded more than 150 million times in 215 countries and offer fun, safe, open-ended play experiences. Learn more about Toca Boca and our products at tocaboca.com.",
       "iconURL": "https://i.imgur.com/6YLAUzN.png",
       "tintColor": "#fcc404",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
