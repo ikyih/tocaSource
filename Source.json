@@ -10,6 +10,68 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca City",
+      "bundleIdentifier": "com.tocaboca.tocacity",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Have fun in the city!",
+      "localizedDescription": "Welcome to Toca Life: City, a metropolis filled with everyday fun! Customize characters, explore exciting locations and find hidden treasures – there’s something in every corner!",
+      "iconURL": "https://i.imgur.com/ic0iiUx.png",
+      "tintColor": "#fbdd0c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20City_1.8.1.ipa",
+          "size": 167100000,
+          "version": "1.8.1",
+          "buildVersion": null,
+          "date": "2026-07-03T19:25:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSMicrophoneUsageDescription": "Used to record your own narration in your videos",
+          "NSPhotoLibraryUsageDescription": "Used to save your videos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Dance Free",
+      "bundleIdentifier": "com.tocaboca.tocadancefree",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Dancey!",
+      "localizedDescription": "Whether you’re a dance master or you have two left feet, with Toca Dance you’re a star choreographer ready to create routines for your dancers! In this full version of Toca Dance you get more characters, more costumes, more songs and more fun!",
+      "iconURL": "https://i.imgur.com/E38Mmzb.png",
+      "tintColor": "#7d2085",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Dance%20Free_1.0.2.ipa",
+          "size": 30400000,
+          "version": "1.0.2",
+          "buildVersion": null,
+          "date": "2026-07-03T19:17:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca Doctor Lite",
       "bundleIdentifier": "com.tocaboca.tocadoctorlite",
       "marketplaceID": "",
@@ -22,12 +84,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Doctor%20Lite_1.0.3.ipa",
-          "size": 10000000,
           "version": "1.0.3",
-          "buildVersion": null,
           "date": "2026-07-03T10:21:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Doctor%20Lite_1.0.3.ipa",
+          "size": 10000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -50,12 +112,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Pets_1.4.1.ipa",
-          "size": 166500000,
           "version": "1.4.1",
-          "buildVersion": null,
           "date": "2026-07-03T10:13:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Pets_1.4.1.ipa",
+          "size": 166500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -77,17 +139,17 @@
       "subtitle": "Ever wanted to get bullied?? YOU CAN NOW.",
       "localizedDescription": "Grab your backpack— it’s time for Toca Life: School! Teach a class, pick a locker and have a food fight in the cafeteria! With five locations and 32 characters, you can create your very own school adventures!",
       "iconURL": "https://i.imgur.com/3vHqyWZ.png",
-      "tintColor": "75CCA7",
+      "tintColor": "#75CCA7",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20School_1.7.1.ipa",
-          "size": 155700000,
           "version": "1.7.1",
-          "buildVersion": null,
           "date": "2026-07-03T09:52:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20School_1.7.1.ipa",
+          "size": 155700000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
