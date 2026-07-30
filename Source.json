@@ -10,6 +10,69 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca Hair Salon 2",
+      "bundleIdentifier": "com.tocaboca.hairsalon2",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "toca nostalgia bait",
+      "localizedDescription": "Cut, curl, color and style – any way you want! Our bestselling app Toca Hair Salon is back in an even better version, with new characters, new tools, new accessories and even more hairstyling fun!",
+      "iconURL": "https://i.imgur.com/EMjWhVy.png",
+      "tintColor": "#6ce4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%202_2.2.ipa",
+          "size": 88100000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-07-30T21:25:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryAddUsageDescription": "Used to save your photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Hair Salon Me",
+      "bundleIdentifier": "com.tocaboca.tocahairsalonme",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "youtube nostalgia bait",
+      "localizedDescription": "Give your friends and family a totally new look! Simply snap a picture and you’re transported to a world of hair-raising fun! Curly, straight or purple? Create a funky hairdo any way you like. Grow it long or cut it short, shave one side or spray paint it every color of the rainbow.",
+      "iconURL": "https://i.imgur.com/QjOA6Ey.png",
+      "tintColor": "#fce434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%20Me_2.1.ipa",
+          "size": 125400000,
+          "version": "2.1",
+          "buildVersion": null,
+          "date": "2026-07-30T21:26:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to take photos",
+          "NSPhotoLibraryUsageDescription": "Used to save your photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca Nature",
       "bundleIdentifier": "com.tocaboca.tocanature",
       "marketplaceID": "",
@@ -52,12 +115,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Store_1.1.6.ipa",
-          "size": 62200000,
           "version": "1.1.6",
-          "buildVersion": null,
           "date": "2026-07-30T12:45:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Store_1.1.6.ipa",
+          "size": 62200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -436,7 +499,7 @@
       "patreon": {}
     },
     {
-      "name": "Fairy Tales",
+      "name": "Toca Tailor Fairy Tales",
       "bundleIdentifier": "com.tocaboca.tailorfairytales",
       "marketplaceID": "",
       "developerName": "Toca Boca",
