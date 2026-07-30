@@ -10,6 +10,150 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca Nature",
+      "bundleIdentifier": "com.tocaboca.tocanature",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "this ones actually kinda calm",
+      "localizedDescription": "Shape nature and watch it develop. Plant trees and grow a forest. Raise a mountain and enjoy the view. Collect berries, mushrooms or nuts, and feed the different animals.",
+      "iconURL": "https://i.imgur.com/CPrqn5g.png",
+      "tintColor": "#2e7b61",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2026-07-30T12:43:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Nature_1.0.3.ipa",
+          "size": 72900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Store",
+      "bundleIdentifier": "com.tocaboca.tocastore",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "the pretend shop from you",
+      "localizedDescription": "Let your kids play store without any of the cleaning up afterwards! What should the store sell – candy, food or toys? Who wants to play customer? Now let’s take turns.",
+      "iconURL": "https://i.imgur.com/jAAkjAj.png",
+      "tintColor": "#fcc434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Store_1.1.6.ipa",
+          "size": 62200000,
+          "version": "1.1.6",
+          "buildVersion": null,
+          "date": "2026-07-30T12:45:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca House",
+      "bundleIdentifier": "com.tocaboca.tocahouse",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "kinda scary and cute warning",
+      "localizedDescription": "Welcome to Toca House! Help the five friends to do fun chores around a cosy house. Let your kids do the dishes, ironing, sweeping or planting flowers in the garden. Loads of fun with 19 different mini-games!",
+      "iconURL": "https://i.imgur.com/S2cFE7e.png",
+      "tintColor": "#f122ba",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-07-30T12:31:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20House_1.0.9.ipa",
+          "size": 73300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Train",
+      "bundleIdentifier": "com.tocaboca.tocatrain",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "Autistic Children Game",
+      "localizedDescription": "All aboard? Time to get on Toca Train! Your kid gets to play train driver in this fun and friendly train simulator. The controls are intuitive and there are no written instructions. Just pull the levers, push the buttons and start exploring the island with your train!",
+      "iconURL": "https://i.imgur.com/GUBbC3I.png",
+      "tintColor": "#c9a575",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.6",
+          "date": "2026-07-30T16:29:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Train_1.0.6.ipa",
+          "size": 36400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Tailor",
+      "bundleIdentifier": "com.tocaboca.tocatailor",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "gay style savvy",
+      "localizedDescription": "Time to get busy with those design skills! With Toca Tailor, you can create, combine and style fun outfits for four different characters. Choose between lots of clothing designs, then tailor them by adjusting hems and lengthening sleeves.",
+      "iconURL": "https://i.imgur.com/GnXwHPg.png",
+      "tintColor": "#ee6604",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2026-07-30T12:15:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Tailor_1.0.8.ipa",
+          "size": 46300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca City",
       "bundleIdentifier": "com.tocaboca.tocacity",
       "marketplaceID": "",
@@ -22,12 +166,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20City_1.8.1.ipa",
-          "size": 167100000,
           "version": "1.8.1",
-          "buildVersion": null,
           "date": "2026-07-03T19:25:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20City_1.8.1.ipa",
+          "size": 167100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -54,12 +198,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Dance%20Free_1.0.2.ipa",
-          "size": 30400000,
           "version": "1.0.2",
-          "buildVersion": null,
           "date": "2026-07-03T19:17:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca%20Dance%20Free_1.0.2.ipa",
+          "size": 30400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
