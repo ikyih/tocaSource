@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Toca Source</title>
+
+<style>
+:root{
+    --yellow:#FFE600;
+    --blue:#00AEEF;
+    --green:#72BF44;
+    --pink:#F49AC1;
+    --orange:#F15A22;
+
+    --bg:#fffef8;
+
+    --text:#202020;
+    --secondary:#666;
+}
+
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text",sans-serif;
+}
+
+body{
+    background:var(--bg);
+    min-height:100vh;
+    color:var(--text);
+    padding:40px;
+}
+
+header{
+    max-width:900px;
+    margin:auto auto 40px;
+}
+
+h1{
+    font-size:48px;
+    color:var(--text);
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:16px;
+}
+
+.sourceIcon{
+    width:40px;
+    height:40px;
+    border-radius:10px;
+    object-fit:cover;
+    flex-shrink:0;
+}
+
+.subtitle,
+.update{
+    text-align:center;
+}
+
+.update{
+    margin-top:16px;
+    color:var(--orange);
+    font-weight:600;
+}
+
+.apps{
+    max-width:1100px;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+    gap:24px;
+}
+
+.card{
+    background:var(--card);
+    border-radius:24px;
+    padding:24px;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+    transition:.2s;
+    border:1px solid #e5e5e5;
+}
+
+.card:hover{
+    transform:translateY(-6px);
+}
+
+.icon{
+    width:90px;
+    height:90px;
+    border-radius:22px;
+    display:block;
+    margin:auto;
+}
+
+.name{
+    text-align:center;
+    margin-top:18px;
+    font-size:28px;
+    color:var(--text);
+}
+
+.version{
+    text-align:center;
+    color:var(--text);
+    font-weight:700;
+    margin:8px 0 18px;
+}
+
+.description{
+    color:var(--secondary);
+    line-height:1.5;
+    margin-bottom:22px;
+}
+
+.download{
+    display:block;
+    width:100%;
+    text-align:center;
+    padding:14px;
+    border-radius:16px;
+    text-decoration:none;
+    background:var(--orange);
+    color:white;
+    font-weight:700;
+    transition:.2s;
+}
+
+.download:hover{
+    background:var(--blue);
+}
+
+.sourceIcon{
+    width:40px;
+    height:40px;
+    border-radius:10px;
+    object-fit:cover;
+    flex-shrink:0;
+}
+
+.loading{
+    text-align:center;
+    color:#444;
+}
+.sourceButtons{
+    display:flex;
+    justify-content:center;
+    gap:12px;
+    margin-top:20px;
+    margin-bottom:8px;
+    flex-wrap:wrap;
+}
+
+.sourceButton{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:12px 18px;
+
+    background:white;
+    border:1px solid #e5e5e5;
+    border-radius:14px;
+
+    text-decoration:none;
+    color:var(--text);
+    font-weight:600;
+
+    transition:.2s;
+}
+
+.sourceButton:hover{
+    transform:translateY(-2px);
+    box-shadow:0 6px 16px rgba(0,0,0,.08);
+}
+
+.sourceButton img{
+    width:24px;
+    height:24px;
+    border-radius:6px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1 id="title">
+        <img src="toca.png" class="sourceIcon" alt="">
+        <span>Loading…</span>
+    </h1>
+
+    <div class="subtitle" id="subtitle"></div>
+    <div class="update" id="updated"></div>
+    <div class="sourceButtons">
+    <a id="altstoreButton" class="sourceButton" href="altstore://source?url=https://ikyih.github.io/tocaSource/Source.json">
+        <img src="AltStore.png" alt="">
+        <span>Add to AltStore</span>
+    </a>
+
+    <a id="sidestoreButton" class="sourceButton" href="sidestore://source?url=https://ikyih.github.io/tocaSource/Source.json">
+        <img src="SideStore.png" alt="">
+        <span>Add to SideStore</span>
+    </a>
+</div>
+</header>
+
+<div class="apps" id="apps">
+    <div class="loading">
+        Loading source...
+    </div>
+</div>
+
+<script>
+
+const SOURCE_URL = "source.json";
+
+fetch(SOURCE_URL + "?t=" + Date.now())
+.then(r=>r.json())
+.then(source=>{
+
+    document.title = source.name;
+
+    title.querySelector("span").textContent = source.name;
+    subtitle.textContent = source.subtitle || "";
+
+    let newest = null;
+
+    apps.innerHTML = "";
+
+    source.apps.forEach(app=>{
+
+        const latest = app.versions[0];
+
+        if(!newest || new Date(latest.date) > new Date(newest))
+            newest = latest.date;
+
+        apps.innerHTML += `
+        <div class="card">
+
+            <img class="icon"
+                 src="${app.iconURL}"
+                 alt="${app.name}">
+
+            <div class="name">${app.name}</div>
+
+            <div class="version">
+                Version ${latest.version}
+            </div>
+
+            <div class="description">
+                ${app.localizedDescription}
+            </div>
+
+            <a class="download"
+               href="${latest.downloadURL}">
+                Download
+            </a>
+
+        </div>
+        `;
+    });
+
+    if(newest){
+        updated.textContent =
+            "Last updated • " +
+            new Date(newest).toLocaleString();
+    }
+
+});
+
+</script>
+
+</body>
+</html>
