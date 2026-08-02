@@ -6,7 +6,10 @@
   "website": "",
   "patreonURL": "",
   "tintColor": "#f15a22",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.tocaboca.tocatailor",
+    "com.tocaboca.tocavacation"
+  ],
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
@@ -22,12 +25,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%202_2.2.ipa",
-          "size": 88100000,
           "version": "2.2",
-          "buildVersion": null,
           "date": "2026-07-30T21:25:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%202_2.2.ipa",
+          "size": 88100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -54,12 +57,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%20Me_2.1.ipa",
-          "size": 125400000,
           "version": "2.1",
-          "buildVersion": null,
           "date": "2026-07-30T21:26:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Hair%20Salon%20Me_2.1.ipa",
+          "size": 125400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -110,7 +113,7 @@
       "subtitle": "the pretend shop from you",
       "localizedDescription": "Let your kids play store without any of the cleaning up afterwards! What should the store sell – candy, food or toys? Who wants to play customer? Now let’s take turns.",
       "iconURL": "https://i.imgur.com/jAAkjAj.png",
-      "tintColor": "#fcc434",
+      "tintColor": "#88daff",
       "category": "other",
       "screenshots": [],
       "versions": [
@@ -844,6 +847,17 @@
     }
   ],
   "news": [
+    {
+      "title": "Mainly 32-Bit apps added!",
+      "identifier": "news_bjxigond1c",
+      "caption": "These Apps were thought to only be 32-Bit, but here they are 64-Bit!",
+      "date": "2026-08-01T22:50",
+      "tintColor": "#88daff",
+      "imageURL": "https://i.imgur.com/Oc6JXMu.png",
+      "notify": true,
+      "url": "",
+      "appID": "com.tocaboca.tocastore"
+    },
     {
       "title": "Toca Source is New!",
       "identifier": "news_2r6nxmse5f",
