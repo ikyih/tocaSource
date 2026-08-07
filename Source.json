@@ -1,6 +1,6 @@
 {
   "name": "Toca Source",
-  "subtitle": "Feeling nostalgic? Play (most of) your Toca Boca Classics here!",
+  "subtitle": "toca jr but no bullshit",
   "description": "toca boca games if you are toca boca and you want to dmca go ahead\n\nmore games added gradually",
   "iconURL": "https://i.imgur.com/49N6l5V.png",
   "website": "",
@@ -13,11 +13,100 @@
   "headerURL": "https://i.imgur.com/swc0Mj9.png",
   "apps": [
     {
+      "name": "Toca Dance",
+      "bundleIdentifier": "com.tocaboca.tocadance",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "sadly this is the cishet version the gay one is on toca fucking jr",
+      "localizedDescription": "Whether you’re a dance master or you have two left feet, with Toca Dance you’re a star choreographer ready to create routines for your dancers! In this full version of Toca Dance you get more characters, more costumes, more songs and more fun!",
+      "iconURL": "https://i.imgur.com/M16TA5M.png",
+      "tintColor": "#B1275E",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Dance_1.1.1.ipa",
+          "size": 72800000,
+          "version": "1.1.1",
+          "buildVersion": null,
+          "date": "2026-08-07T12:59:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Hair Salon",
+      "bundleIdentifier": "com.tocaboca.hairyhippy005",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "the original",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uXs3Ze0.png",
+      "tintColor": "#e9e004",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Hair_Salon_1.2.8.ipa",
+          "size": 38800000,
+          "version": "1.2.8",
+          "buildVersion": null,
+          "date": "2026-08-07T12:59:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Toca Tea Party",
+      "bundleIdentifier": "com.tocaboca.tocateaparty002",
+      "marketplaceID": "",
+      "developerName": "Toca Boca",
+      "subtitle": "play this one with ur kids actually this time",
+      "localizedDescription": "nvite your friends to a tea party around your iPad! Set the table, choose your favorite cookies and cakes, serve the tea and you’re good to go! Toca Tea Party lets you play together with your kids in a way that stimulates their imagination.",
+      "iconURL": "https://static.wikia.nocookie.net/the-toca-boca/images/4/4f/Icon_2048.png/",
+      "tintColor": "#f12b22",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Toca-Boca-iOS-11/Toca_Tea_Party_2.1.ipa",
+          "size": 41200000,
+          "version": "2.1",
+          "buildVersion": null,
+          "date": "2026-08-07T12:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to save your videos",
+          "NSMainNibFile": "MainWindow"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Toca Hair Salon 2",
       "bundleIdentifier": "com.tocaboca.hairsalon2",
       "marketplaceID": "",
       "developerName": "Toca Boca",
-      "subtitle": "toca nostalgia bait",
+      "subtitle": "the original but more racist",
       "localizedDescription": "Cut, curl, color and style – any way you want! Our bestselling app Toca Hair Salon is back in an even better version, with new characters, new tools, new accessories and even more hairstyling fun!",
       "iconURL": "https://i.imgur.com/EMjWhVy.png",
       "tintColor": "#6ce4f4",
@@ -49,7 +138,7 @@
       "bundleIdentifier": "com.tocaboca.tocahairsalonme",
       "marketplaceID": "",
       "developerName": "Toca Boca",
-      "subtitle": "youtube nostalgia bait",
+      "subtitle": "the second game but creepy",
       "localizedDescription": "Give your friends and family a totally new look! Simply snap a picture and you’re transported to a world of hair-raising fun! Curly, straight or purple? Create a funky hairdo any way you like. Grow it long or cut it short, shave one side or spray paint it every color of the rainbow.",
       "iconURL": "https://i.imgur.com/QjOA6Ey.png",
       "tintColor": "#fce434",
@@ -442,7 +531,7 @@
       "bundleIdentifier": "com.tocaboca.tocahairsalon3",
       "marketplaceID": "",
       "developerName": "Toca Boca",
-      "subtitle": "Cut to the limit!",
+      "subtitle": "the second game but less racist",
       "localizedDescription": "What do you feel like creating today — something quirky, pretty or edgy? Cut, curl, color and style – any way you want! Choose your character from dozens of looks that you can customize — the play opportunities are are endless.",
       "iconURL": "https://i.imgur.com/shThqzD.png",
       "tintColor": "#d4f440",
